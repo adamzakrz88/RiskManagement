@@ -12,7 +12,7 @@
     "@sap/cds": "^7",
     "@sap/cds-hana": "^2",
     "@sap/xsenv": "^4.0.0",
-    "@sap/xssec": "^3.4.0",
+    "@sap/xssec": "^3.6.1",
     "express": "^4",
     "npx": "^10.2.2",
     "passport": "^0.6.0"
